@@ -58,6 +58,7 @@ def insert(win, position):
                     pygame.display.update()
                     return
 
+# Main
 
 def main():
     pygame.init()
